@@ -1,0 +1,40 @@
+#logo {
+  display: flex;
+  justify-content: center;
+}
+
+/* écriture du logo */
+h1 {
+  color: red;
+  font-size: 40px;
+  font-style: italic;
+  text-align: center;
+}
+/* Cercles noirs */
+.circle1 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  border: 8px solid black;
+}
+.circle2 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  border: 8px solid black;
+  margin-left: -20px;
+}
+.circle3 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  border: 8px solid black;
+  margin-left: -20px;
+}
+.circle4 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  border: 8px solid black;
+  margin-left: -20px;
+}
